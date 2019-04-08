@@ -139,7 +139,11 @@ body {
   /* // LOGO TEXT ANIMATION START */
   .header_text {
     color: black;
+<<<<<<< HEAD
     /* font-weight: bolder; */
+=======
+/*     font-weight: bolder; */
+>>>>>>> 34555c04dcac6db46debfb2bcd69e967eb309c0d
     font-family: Arial, Helvetica, sans-serif;
     text-shadow: 2px 2px 4px #000000;
   }
