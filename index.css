@@ -53,19 +53,17 @@ body {
   
   /* //################## IMAGE SLIDER START ###################### */
   
-  .lead {
+  /* .lead {
     color: white;
     text-shadow: 2px 2px 4px #000000;
     text-align: center;
     margin-top: 200px;
-    /* // margin-left: 250px; */
     padding-top: 19px;
     padding-bottom: 19px;
-    /* // border: black solid 3px; */
     border-radius: 15px 50px;
     box-shadow: 2px 2px 4px #523030;
     background-color: rgba(0, 38, 255, 0.226)
-  }
+  } */
   /* // TEXT ANIMATION START */
   .typewrite {
     font-weight: bolder;
@@ -141,7 +139,7 @@ body {
   /* // LOGO TEXT ANIMATION START */
   .header_text {
     color: black;
-    font-weight: bolder;
+    /* font-weight: bolder; */
     font-family: Arial, Helvetica, sans-serif;
     text-shadow: 2px 2px 4px #000000;
   }
@@ -151,7 +149,7 @@ body {
        /* you could also use milliseconds (ms) or something like 2.5s */
     -webkit-animation: animate-color 50s; /* Chrome and Safari */
     animation-iteration-count: infinite;  
-    height: 200px;
+    height: 250px;
   }
   
   @keyframes animate-color
@@ -332,7 +330,7 @@ body {
   color: rgb(250, 4, 4);
   }
   .comma{
-  font-size: 100px;
+  font-weight: bolder;
   color:blue;
   }
   .tesi_text {
